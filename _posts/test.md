@@ -3,8 +3,6 @@ date: 2021-06-24
 title: "test title"
 excerpt: "excpt"
 
-categories: 
-  - test 
 tags: 
   - FFmpeg
   - HLS
